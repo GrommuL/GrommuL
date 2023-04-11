@@ -4,6 +4,7 @@
 <p align="left">
 <a href="https://discord.gg/Barkas#1404" target="blank">Discord</a>
 <a href="https://t.me/Brksx" target="blank">Telegram</a>
+  <a href="mailto:miketsvg@gmail.com">miketsvg@gmail.com</a>
 </p>
 
 
