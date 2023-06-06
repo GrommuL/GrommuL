@@ -9,7 +9,7 @@
 
 <h3 align="left">Pet-projects</h3>
 <p align="left">
-<a href="[https://discord.gg/Barkas#1404](https://womazing-z7fb.onrender.com)" target="blank">Интеренет-магазин Womazing</a>
+<a href="https://womazing-z7fb.onrender.com" target="blank">Интеренет-магазин Womazing</a>
 </p>
 
 
