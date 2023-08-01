@@ -1,18 +1,29 @@
-<h1 align="center">Front-end Developer</h1>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/Barkas#1404" target="_blank">Discord</a>
-<a href="https://t.me/Brksx" target="_blank">Telegram</a>
-  <a href="mailto:miketsvg@gmail.com">miketsvg@gmail.com</a>
-</p>
-
-<h3 align="left">Pet-projects</h3>
-<p align="left">
-<a href="https://womazing-n0g8.onrender.com/" target="_blank" rel="noreferrer">Интеренет-магазин Womazing</a>
-</p>
+# Привет. Меня зовут Михаил, и Я Frontend-разработчик
+## 🔗 Связь со мной
+[![Telegram Badge](https://img.shields.io/badge/Telegram-fff?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/Brksx)
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](https://miketsvg@gmail.com)
 
 
+## 🔨 Мой актуальный стек
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"
+### Основной
+![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000)
+![Redux](https://img.shields.io/badge/-Redux-5A009D?style=for-the-badge&logo=redux&logoColor=fff)
+![Redux-Toolkit](https://img.shields.io/badge/-Redux_Toolkit-fff?style=for-the-badge&logo=redux&logoColor=5A009D)
+![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+
+
+### Дополнительные инструменты или технологии
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
+![BEM Badge](https://img.shields.io/badge/BEM-000?logo=bem&logoColor=fff&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
+![Vite](https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=)
+
+## 🌍 Cтатистика 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buhaistrikalo&layout=compact&theme=radical)
