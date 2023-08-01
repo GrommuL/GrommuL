@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](https://miketsvg@gmail.com)
 
 ⌨️ Актуальные пет-проекты
-[![Readme Card][Womazing]](https://womazing-n0g8.onrender.com)
+[!Womazing](https://womazing-n0g8.onrender.com)
 
 
 ## 🔨 Мой актуальный стек
