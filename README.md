@@ -3,6 +3,9 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-fff?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/Brksx)
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](https://miketsvg@gmail.com)
 
+⌨️ Актуальные пет-проекты
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buhaistrikalo&repo=svoi-todo-list&theme=radical)](https://womazing-n0g8.onrender.com)
+
 
 ## 🔨 Мой актуальный стек
 
