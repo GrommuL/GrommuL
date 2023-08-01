@@ -1,5 +1,5 @@
 # Привет. Меня зовут Михаил, и Я Frontend-разработчик
-## ✉ Связь со мной
+## 📧 Связь со мной
 [![Telegram Badge](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/Brksx)
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](https://miketsvg@gmail.com)
 
