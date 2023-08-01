@@ -1,7 +1,7 @@
 # Привет. Меня зовут Михаил, и Я Frontend-разработчик
 ## 🔗 Связь со мной
 [![Telegram Badge](https://img.shields.io/badge/Telegram-fff?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/Brksx)
-[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](https://miketsvg@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](miketsvg@gmail.com)
 
 
 ## 🔨 Мой актуальный стек
@@ -25,5 +25,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 ![Vite](https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=)
 
-## 🌍 Cтатистика 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buhaistrikalo&layout=compact&theme=radical)
