@@ -6,8 +6,9 @@
 
 🔗 Актуальные пет-проекты
 
-[Womazing - интернет-магазин одежды](https://womazing-n0g8.onrender.com)
-[Dashboard](https://dashboard-q3aj.onrender.com)
+- Dashboard - https://dashboard-q3aj.onrender.com/
+- Womazing - интернет-магазин одежды - https://womazing-n0g8.onrender.com/
+
 
 
 ## 🔨 Мой актуальный стек
