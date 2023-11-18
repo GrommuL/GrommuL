@@ -6,6 +6,10 @@
 
 🔗 Актуальные пет-проекты
 
+- **Получение данных осуществляется с помощью Json-Server.** 
+- **Загрузка может занять больше времени чем хотелось бы.**
+
+
 - Dashboard - [Deploy on Netlify](https://rad-twilight-51a602.netlify.app)
 - Dashboard - [Deploy on Render](https://dashboard-project-choh.onrender.com)
 - Womazing - интернет-магазин одежды - https://womazing-n0g8.onrender.com/
