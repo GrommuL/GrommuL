@@ -7,6 +7,7 @@
 🔗 Актуальные пет-проекты
 
 - Dashboard - https://rad-twilight-51a602.netlify.app/
+- Dashboard - [Deploy on Render](https://dashboard-project-choh.onrender.com)
 - Womazing - интернет-магазин одежды - https://womazing-n0g8.onrender.com/
 
 
