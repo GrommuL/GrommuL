@@ -3,6 +3,16 @@
 [![Telegram Badge](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/Brksx)
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](https://miketsvg@gmail.com)
 
+🔗 Актуальные пет-проекты
+
+- **Получение данных осуществляется с помощью Json-Server.**
+- **Загрузка может занять больше времени чем хотелось бы.**
+
+
+- Dashboard - [Deploy on Netlify](https://rad-twilight-51a602.netlify.app)
+- Dashboard - [Deploy on Render](https://dashboard-project-choh.onrender.com)
+- Womazing - интернет-магазин одежды - https://womazing-n0g8.onrender.com/
+
 
 ## 🔨 Мой актуальный стек
 
