@@ -12,7 +12,7 @@
 - Horizon - [Deploy on Railway](https://horizon-production-81d1.up.railway.app/)
 - Dashboard - [Deploy on Netlify](https://rad-twilight-51a602.netlify.app)
 - Dashboard - [Deploy on Render](https://dashboard-project-choh.onrender.com)
-- Womazing - интернет-магазин одежды - https://womazing-n0g8.onrender.com/
+
 
 
 ## 🔨 Мой актуальный стек
