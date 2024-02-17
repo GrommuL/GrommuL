@@ -5,9 +5,6 @@
 
 🔗 Актуальные пет-проекты
 
-- **Получение данных осуществляется с помощью Json-Server.**
-- **Загрузка может занять больше времени чем хотелось бы.**
-
 
 - Horizon - [Deploy on Railway](https://horizon-production-81d1.up.railway.app/)
 - Dashboard - [Deploy on Netlify](https://rad-twilight-51a602.netlify.app)
